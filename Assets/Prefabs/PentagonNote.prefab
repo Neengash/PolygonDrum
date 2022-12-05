@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &2679275814556852427
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2011181405, guid: d98bf44cd70ca0f4c94a55086a87d123, type: 3}
+      propertyPath: canPressNote
+      value: 
+      objectReference: {fileID: 11400000, guid: 35fb87d98b0917d46ab27a0c0cdc2165, type: 2}
+    - target: {fileID: 2011181405, guid: d98bf44cd70ca0f4c94a55086a87d123, type: 3}
+      propertyPath: pressedNoteEvent
+      value: 
+      objectReference: {fileID: 11400000, guid: 3cc6f8546549a7f44805ae8cb9e03405, type: 2}
+    - target: {fileID: 653304875188945776, guid: d98bf44cd70ca0f4c94a55086a87d123, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 653304875188945776, guid: d98bf44cd70ca0f4c94a55086a87d123, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 653304875188945776, guid: d98bf44cd70ca0f4c94a55086a87d123, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 653304875188945776, guid: d98bf44cd70ca0f4c94a55086a87d123, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 653304875188945776, guid: d98bf44cd70ca0f4c94a55086a87d123, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 653304875188945776, guid: d98bf44cd70ca0f4c94a55086a87d123, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 653304875188945776, guid: d98bf44cd70ca0f4c94a55086a87d123, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 653304875188945776, guid: d98bf44cd70ca0f4c94a55086a87d123, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 653304875188945776, guid: d98bf44cd70ca0f4c94a55086a87d123, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 653304875188945776, guid: d98bf44cd70ca0f4c94a55086a87d123, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 653304875188945776, guid: d98bf44cd70ca0f4c94a55086a87d123, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 653304875188945777, guid: d98bf44cd70ca0f4c94a55086a87d123, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -2070208057, guid: 32233e7f831fa634298569c52911a1d8, type: 3}
+    - target: {fileID: 653304875188945777, guid: d98bf44cd70ca0f4c94a55086a87d123, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 653304875188945777, guid: d98bf44cd70ca0f4c94a55086a87d123, type: 3}
+      propertyPath: m_Color.r
+      value: 0.21568628
+      objectReference: {fileID: 0}
+    - target: {fileID: 653304875188945783, guid: d98bf44cd70ca0f4c94a55086a87d123, type: 3}
+      propertyPath: m_Name
+      value: PentagonNote
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: d98bf44cd70ca0f4c94a55086a87d123, type: 3}

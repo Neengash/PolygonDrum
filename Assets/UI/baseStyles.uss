@@ -1,0 +1,6 @@
+.scorelabel {
+    -unity-font: url('project://database/Assets/Fonts/TTF/dogicapixelbold.ttf?fileID=12800000&guid=655f375edc4011b49a753d7a4a0d8f48&type=3#dogicapixelbold');
+    font-size: 64px;
+    -unity-font-definition: none;
+    -unity-text-align: upper-right;
+}
