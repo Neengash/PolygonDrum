@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 3110175439377547165}
   - component: {fileID: 2205066821146547141}
   - component: {fileID: 2011181405}
-  - component: {fileID: 2011181406}
+  - component: {fileID: 7579514166459677416}
   - component: {fileID: 2011181407}
   - component: {fileID: 2011181408}
   m_Layer: 0
@@ -144,7 +144,7 @@ MonoBehaviour:
   canPressNote: {fileID: 11400000, guid: 6b85c4ce834a07544afe06967b1c9eb5, type: 2}
   pressedNoteEvent: {fileID: 11400000, guid: 4cf6e43b63addf340b4a0a39a782b0eb, type: 2}
   score: {fileID: 11400000, guid: 7db614042ab48ed4490fa2af22bedd2d, type: 2}
---- !u!114 &2011181406
+--- !u!114 &7579514166459677416
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -153,25 +153,13 @@ MonoBehaviour:
   m_GameObject: {fileID: 653304875188945783}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 9d503f1659a864241868e51ff877a07e, type: 3}
+  m_Script: {fileID: 11500000, guid: f17238b3767902a438705d9263fdd23a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   Event: {fileID: 0}
   Response:
     m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 0}
-        m_TargetAssemblyTypeName: PlayableNote, Assembly-CSharp
-        m_MethodName: 
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
+      m_Calls: []
 --- !u!114 &2011181407
 MonoBehaviour:
   m_ObjectHideFlags: 0
